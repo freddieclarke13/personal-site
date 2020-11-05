@@ -1,13 +1,20 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+p2 {
+    font-family: 'Roboto Mono', monospace;
 }
 
 h1 {
     size: 16px;
-    color: #00079E;
+    color: #9e1f16;
+    font-family: 'Slabo 27px', serif;
+    font-weight: bolder;
 }
 
 h2 {
-    color: #00079E;
+    color: #9e1f16;
+    font-family: 'Slabo 27px', serif;
 }
 
