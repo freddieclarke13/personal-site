@@ -1,5 +1,8 @@
 body {
     font-family: 'Raleway', sans-serif;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-left: 50px;
 }
 
 p2 {
@@ -8,6 +11,8 @@ p2 {
 
 h1 {
     size: 16px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
     color: #9e1f16;
     font-family: 'Slabo 27px', serif;
     font-weight: bolder;
@@ -16,5 +21,7 @@ h1 {
 h2 {
     color: #9e1f16;
     font-family: 'Slabo 27px', serif;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 
